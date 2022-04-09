@@ -6,18 +6,27 @@ $ git clone https://github.com/nozzato/tabbed.git
 Install tabbed
 # make clean install
 
+
 Patches
 -------
 autohide
+
+
+Keybinds
+--------
+Some keybinds have been adapted to the uk workman layout.
+I have also included alternate keybinds for programmer keys.
 
 
 tabbed - generic tabbed interface
 =================================
 tabbed is a simple tabbed X window container.
 
+
 Requirements
 ------------
 In order to build tabbed you need the Xlib header files.
+
 
 Installation
 ------------
@@ -29,7 +38,7 @@ Afterwards enter the following command to build and install tabbed
 
     make clean install
 
+
 Running tabbed
 --------------
 See the man page for details.
-
